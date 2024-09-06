@@ -22,7 +22,7 @@ This Python script loads an image, resizes it to 720x720 pixels, and displays it
 2. Run the Script:
 
    ```bash
-  python your_script_name.py
+   python your_script_name.py
 
 3. View the Image: The script will open a window displaying the resized image. Press any key to close the window.
 
